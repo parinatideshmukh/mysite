@@ -1,0 +1,38 @@
+#Home-Images{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-size: cover;
+    position: absolute;
+    height: 90%;
+    width: 100%;
+}
+#AboutUs-Image{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-size: cover;
+    position: absolute;
+    height: 95%;
+    width: 100%;
+}
+
+#bookimage{
+    height: 400px;
+    width: 400px;
+    justify-content: center;
+    border-style: solid;
+    border-color: black;
+    margin-left: 50px;
+    margin-top: 150px;
+}
+
+#contact-image{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-size: cover;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+}
